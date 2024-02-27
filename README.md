@@ -8,7 +8,7 @@ Flutter 1.22.3
 
 Screenshots
 
-![Screenshot_1697964763](https://github.com/ProjectWindy/Flutter_Todolist/assets/76941571/bdf57e72-29e2-40e1-9a98-2a1ed86ace30)
+![Screenshot_1697891108](https://github.com/ProjectWindy/Flutter_Todolist/assets/76941571/32d02208-1014-43ea-b953-e9c6926eefaa)
 
 
 
