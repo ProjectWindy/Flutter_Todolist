@@ -1,16 +1,35 @@
-# flutter_application_1
+To-do List App 👋
+Version License: MIT
 
-A new Flutter project.
+An elegant Todo and Event organisation app built with Flutter
 
-## Getting Started
+Flutter Version
+Flutter 1.22.3
 
-This project is a starting point for a Flutter application.
+Screenshots
+tasklist	add_task	delete_task
+eventlist	add_event	delete_event
+Command
+Install dependencies
+flutter pub get
+Run application
+flutter emulators --launch <emulator_name>
+flutter run
+Generate MOOR
+flutter packages pub run build_runner build
+Build
+flutter build apk
+Run tests
+flutter test
+Plugins
+moor ^3.4.0
+sqlite3_flutter_libs ^0.2.0
+path_provider ^1.6.24
+path ^1.7.0
+intl ^0.16.1
+provider ^4.3.2+2
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Github: @ProjectWindy
+Show your support
+Give a ⭐️ if this project helped you!
